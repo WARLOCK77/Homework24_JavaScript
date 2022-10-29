@@ -1,0 +1,8 @@
+#clock {
+			font: bold 30px sans-serif;
+			background: red;
+			border: solid black 4px;
+			border-radius: 10px;
+			padding: 20px;
+
+		}
